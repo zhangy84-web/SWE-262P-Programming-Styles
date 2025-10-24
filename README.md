@@ -25,16 +25,33 @@ java Six ../pride-and-prejudice.txt
 ```
 #### Week 3
 **Seven**
-
 ```
 cd week3
 javac Seven.java
 java Seven ../pride-and-prejudice.txt
 ```
 **Eight**
-
 ```
 cd week3
 javac Eight.java
 java Eight ../pride-and-prejudice.txt
+```
+#### Week 4
+**Nine**
+```
+cd week4
+javac Nine.java
+java Nine ../pride-and-prejudice.txt
+```
+**Ten**
+```
+cd week4
+javac Ten.java
+java Ten ../pride-and-prejudice.txt
+```
+**Sixteen**
+```
+cd week4
+javac Sixteen.java
+java Sixteen ../pride-and-prejudice.txt
 ```
